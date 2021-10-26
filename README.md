@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sdetman
+- 👀 I’m interested in QA Automation
+- 🌱 I’m currently learning Java & Selenium
+- 💞️ I’m looking to collaborate on Selenium & JUnit
